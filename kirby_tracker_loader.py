@@ -16,7 +16,7 @@ import sys
 # ===============================
 # Setup
 # ===============================
-project_root = '/home/enosmosi/data_engineer_scripts/Python_Project'
+project_root = '/home/fld1/fld2/fld3'
 data_dir = os.path.join(project_root, 'dat')
 config_dir = os.path.join(project_root, 'config')
 log_dir = os.path.join(data_dir, "log")
